@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+<img width="1590" height="872" alt="image" src="https://github.com/user-attachments/assets/fd5e2c07-dc9d-4b5e-8669-584528c11ec3" />
+
+### Name: VEERARAGAVAN V
+### Register Number: 212223230237
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
